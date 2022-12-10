@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/adventofcode2022/static/css/main.073c9b0a.css",
-    "main.js": "/adventofcode2022/static/js/main.63a914b9.js",
+    "main.js": "/adventofcode2022/static/js/main.943f9f8b.js",
     "static/js/787.533bbcee.chunk.js": "/adventofcode2022/static/js/787.533bbcee.chunk.js",
     "static/media/logo.svg": "/adventofcode2022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/adventofcode2022/index.html",
     "main.073c9b0a.css.map": "/adventofcode2022/static/css/main.073c9b0a.css.map",
-    "main.63a914b9.js.map": "/adventofcode2022/static/js/main.63a914b9.js.map",
+    "main.943f9f8b.js.map": "/adventofcode2022/static/js/main.943f9f8b.js.map",
     "787.533bbcee.chunk.js.map": "/adventofcode2022/static/js/787.533bbcee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.63a914b9.js"
+    "static/js/main.943f9f8b.js"
   ]
 }
